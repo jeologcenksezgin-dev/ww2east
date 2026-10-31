@@ -1,0 +1,7 @@
+# Antigravity IDE and snapshot files
+.snapshots/
+*.log
+
+# Optional bulky raw data
+europe.geojson
+generated_svg_data.json
